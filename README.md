@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/eduvinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduvinicius&show_icons=true&theme=merko&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduvinicius&layout=compact&langs_count=7&theme=merko"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduvinicius&show_icons=true&theme=merko&include_all_commits=false&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
