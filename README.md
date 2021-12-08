@@ -1,4 +1,4 @@
-### Hello, my name is Eduardo Vinicius!
+### Hello, my name's Eduardo Vinicius!
 
 - 🔭 I'm currently studying Analysis and System Development.
 - 🌱 I'm studying some technologies like JavaScript, HTML and CSS.
