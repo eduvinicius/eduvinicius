@@ -1,8 +1,11 @@
-### Olá, eu sou o Eduardo Vinicius!
+### Hello, my name is Eduardo Vinicius!
 
-- 🔭 Sou um estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente eu estudo JavaScript, HTML e CSS.
-- 📫 Contate-me no e-mail: eduvinicius6@hotmail.com
+- 🔭 I'm currently studying Analysis and System Development.
+- 🌱 I'm studying some technologies like JavaScript, HTML and CSS.
+- 👨‍💻 I'm here because i want to learn with everyone. I hope i can do my best in this new journey!
+- 📫 If you want to contact me, here is my e-mail: eduvinicius6@hotmail.com
+- ✈ We all love travelling, right?
+ 
 
 <div align="center">
   <a href="https://github.com/eduvinicius">
