@@ -2,7 +2,8 @@
 
 - 🔭 I'm currently studying Analysis and System Development.
 - 🌱 I'm studying some technologies like JavaScript, HTML and CSS.
-- 👨‍💻 I'm here because i want to learn with everyone. I hope i can do my best in this new journey!
+- ▶  I'm a Personal Trainer, but now, i wanna be a Developer!
+- 👨‍💻 I'm here because i wanna  learn with everyone. I hope i can do my best in this new journey!
 - 📫 If you want to contact me, here is my e-mail: eduvinicius6@hotmail.com
 - ✈ We all love travelling, right?
  
