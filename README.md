@@ -1,4 +1,4 @@
-### Hey, guys! My name's Eduardo Vinicius!
+### Hey, guys! My name is Eduardo Vinicius!
 
 - 🔭 I'm currently studying Analysis and System Development.
 - 🌱 I'm studying some technologies like Typescript, React, React Native and NodeJs.
