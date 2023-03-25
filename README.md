@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/eduvinicius">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduvinicius&show_icons=true&theme=merko&include_all_commits=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduvinicius&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduvinicius&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
