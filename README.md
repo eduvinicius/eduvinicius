@@ -1,7 +1,7 @@
 ### Hey, guys! My name is Eduardo Vinicius!
 
 - 🔭 I'm currently studying Analysis and System Development.
-- 🌱 I'm studying some technologies like Typescript, React, React Native and NodeJs.
+- 🌱 I'm studying some technologies like Typescript, React, Angular and NodeJs.
 - ▶  Almost a Frontend Developer!
 - 👨‍💻 I'm here because i wanna  learn with everyone. I hope i can do my best in this new journey!
 - 📫 If you want to contact me, here is my e-mail: eduvinicius6@hotmail.com
