@@ -15,7 +15,7 @@
 </div>
  
  <div align="center">
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduvinicius&theme=merko" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduvinicius&theme=merko" />
  </div>
 
 <div style="display: inline_block"><br>
