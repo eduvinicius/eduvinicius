@@ -1,6 +1,6 @@
 ### Hey, guys! My name is Eduardo Vinicius!
 
-- 🔭 I'm currently studying Analysis and System Development.
+- 🔭 Analysis and System Development.
 - 🌱 I'm studying some technologies like Typescript, React, Angular and NodeJs.
 - ▶  I'm a Front-End Developer!
 - 👨‍💻 I'm here because i wanna  learn with everyone. I hope i can do my best in this new journey!
