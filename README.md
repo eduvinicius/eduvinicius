@@ -2,7 +2,7 @@
 
 - 🔭 Analysis and System Development.
 - 🌱 I'm studying some technologies like Typescript, React, Angular and NodeJs.
-- ▶  I'm a Front-End Developer!
+- ▶  I'm a Front-End Developer (Studying to become a fullstack)!
 - 👨‍💻 I'm here because i wanna  learn with everyone. I hope i can do my best in this new journey!
 - ✈ We all love travelling, right?
  
@@ -25,6 +25,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+ 
 </div>
 
 ##
