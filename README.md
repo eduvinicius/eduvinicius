@@ -43,12 +43,30 @@ Always open to learning, sharing knowledge and collaborating on interesting proj
 ## 🛠️ Languages and Tools
 
 <br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs" />
 </p>
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,sass,tailwind,materialui" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,nestjs" />
+</p>
+
+### Databases & BaaS
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,sqlserver,supabase,firebase,mongodb" />
+</p>
+
+### Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,git,github,vscode,visualstudio,vite,docker" />
+</p>
 <hr>
 
 ##
