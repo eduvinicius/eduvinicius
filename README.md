@@ -23,6 +23,11 @@ My name is **Eduardo Vinicius**.
 ---
 
 Always open to learning, sharing knowledge and collaborating on interesting projects.
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{eduvinicius}/count.svg" alt="Visitor's Count" />
+</div>
  
 <div align="center">
   <a href="https://github.com/eduvinicius">
