@@ -15,7 +15,7 @@ My name is **Eduardo Vinicius**.
 - **Frontend:** Angular, React, TypeScript, Tailwind  
 - **Testing:** Cypress  
 - **Backend (learning):** Node.js, .NET  
-- **Tools:** Git, Firebase
+- **Tools:** Git, Firebase, Supabase
 
 ### A bit outside of coding
 ✈ I enjoy traveling and exploring new places.
