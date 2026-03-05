@@ -1,12 +1,29 @@
-### Hey, guys! My name is Eduardo Vinicius!
+## Hey there 👋
 
-- 🔭 Analysis and System Development.
-- 🌱 I'm studying some technologies like Typescript, React, Angular and NodeJs.
-- ▶  I'm a Front-End Developer (Studying to become a fullstack)!
-- 👨‍💻 I'm here because i wanna  learn with everyone. I hope i can do my best in this new journey!
-- ✈ We all love travelling, right?
+My name is **Eduardo Vinicius**.
+
+💻 Front-End Developer passionate about building modern web applications.
+
+### About me
+- 🎓 Degree in **Analysis and Systems Development**
+- 🚀 Currently working with **Angular, TypeScript, Tailwind and Cypress**
+- 🌱 Expanding my stack with **React, Node.js and .NET**
+- 🧠 Always learning more about **software architecture, performance and clean code**
+- 🎯 Goal: Become a strong **Full-Stack Developer**
+
+### Tech I enjoy working with
+- **Frontend:** Angular, React, TypeScript, Tailwind  
+- **Testing:** Cypress  
+- **Backend (learning):** Node.js, .NET  
+- **Tools:** Git, Firebase
+
+### A bit outside of coding
+✈ I enjoy traveling and exploring new places.
+
+---
+
+Always open to learning, sharing knowledge and collaborating on interesting projects.
  
-
 <div align="center">
   <a href="https://github.com/eduvinicius">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduvinicius&show_icons=true&theme=merko&include_all_commits=false&count_private=true"/>
