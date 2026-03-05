@@ -28,21 +28,10 @@ Always open to learning, sharing knowledge and collaborating on interesting proj
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduvinicius&theme=merko" />
  </div>
 
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
- 
-</div> -->
-
 ## 🛠️ Languages and Tools
 
 <br>
+
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,cs" />
@@ -60,7 +49,7 @@ Always open to learning, sharing knowledge and collaborating on interesting proj
 
 ### Databases & BaaS
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,sqlserver,supabase,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase,mongodb" />
 </p>
 
 ### Testing & Tools
